@@ -1,0 +1,11 @@
+{
+  "name": "odata-helper",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "odata-openapi": "odata-openapi3"
+  },
+  "devDependencies": {
+    "odata-openapi": "^0.21.2"
+  }
+}
